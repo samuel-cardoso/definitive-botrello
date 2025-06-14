@@ -9,6 +9,7 @@
   "author": "Samuel Cardoso da Silva",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.10.0",
     "discord.js": "^14.18.0",
     "dotenv": "^16.5.0",
     "fastify": "^5.3.2"
